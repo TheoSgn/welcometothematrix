@@ -1,0 +1,44 @@
+/* style.css */
+body{
+  background: rgb(50,00,240);
+  color: red;
+  font-size: 30px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 16px;
+}
+h2 {
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 12px;
+}
+h3 {
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 12px;
+}
+ul {
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+alt {
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 9px;
+}
+a {
+  color: red;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
